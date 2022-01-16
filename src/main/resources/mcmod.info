@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "mods_version_checker",
+    "name": "Mods Version Checker",
+    "description": "Vulnerability countermeasures, etc.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "noyciy7037"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
